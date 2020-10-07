@@ -21,6 +21,10 @@
                     $c = $_POST['c'];
                     $h = $_POST['h'];
 
+
+
+                    //slaby kod nie polecam XDD <3
+                    //dodaj ifa na sprawdzenie trojkata a nie XD
                 $p= ($a+$b+$c)/2;    
                 $podstawa = sqrt($p*($p-$a)*($p-$b)*($p-$c));
                 $pole = $a*$h + $b*$h + $c*$h + 2*$podstawa;
